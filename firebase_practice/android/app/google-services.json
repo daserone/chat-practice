@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937036593332",
+    "project_id": "location-and-chat",
+    "storage_bucket": "location-and-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937036593332:android:04e5fefc437789171d3fe1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937036593332-bg5jpep8jb3msh4ablp6edsvindbf14k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA2k2DcBhD3Sgxmf5S-LLr66E3p9GIDNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937036593332-bg5jpep8jb3msh4ablp6edsvindbf14k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
